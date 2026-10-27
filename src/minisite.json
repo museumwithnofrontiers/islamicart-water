@@ -1,6 +1,17 @@
 {
-  "legacy": "TODO(dataset): run inventory-app's scripts/minisites/legacy-minisite.mjs",
+  "legacy": "https://islamicart.museumwnf.org/exhibitions/ISL/water/",
   "menuSecondColumnFrom": 7,
-  "curators": [],
+  "curators": [
+    {
+      "partner": "f6a3053d-d710-547e-be54-96097d448f7a",
+      "logo": "legacy/SY-22.gif",
+      "space": 35
+    },
+    {
+      "partner": "3b73a306-1129-5c8d-acba-8e34a39e132f",
+      "logo": "legacy/BM-22.gif",
+      "space": 30
+    }
+  ],
   "maps": 0
 }
